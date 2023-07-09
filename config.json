@@ -1,0 +1,6 @@
+{
+  "webhook_url": "your_webhook_url_here",
+  "website_url": "your_website_url_here",
+  "log_file": "log.txt",
+  "concurrency_limit": 5
+}
